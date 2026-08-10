@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph08-prog.github.io/twin-lakes-nursery-77966/sitemap.xml
+Sitemap: https://twin-lakes-nursery-77966.pages.dev/sitemap.xml
